@@ -1,3 +1,5 @@
+/webmail
+/mail
 /acceso.asp
 /acceso.php
 /access/
